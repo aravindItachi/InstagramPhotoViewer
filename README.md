@@ -1,10 +1,7 @@
-AndroidGoogleImageSearch
-========================
 
-Android App for the google Image Search
+An Android Application which allows you to view the popular instagram photos.
 
-Time spent: 8 hours spent in total
-
+Total hours spent : 5 hours.
 Completed user stories:
  Required: 
  		   User can See the popular Images from the Instagram
@@ -21,3 +18,6 @@ Walkthrough of all user stories:
 ![Video Walkthrough](androidInstagramSearch.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
+=======
+InstagramPhotoViewer
+====================
